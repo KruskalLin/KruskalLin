@@ -2,6 +2,8 @@
 
 <p>
   <br>
+  <br>
+  <br>
   <samp>
     One ordinary day, one ordinary programmer.
   </samp>
