@@ -1,3 +1,8 @@
-One ordinary day, one ordinary programmer.
+<img align="right" src="https://github.com/KruskalLin/KruskalLin/blob/master/200.gif" />
 
-<img align="left" src="https://github.com/KruskalLin/KruskalLin/blob/master/200.gif" />
+<p>
+  <br>
+  <samp>
+    One ordinary day, one ordinary programmer.
+  </samp>
+</p>
