@@ -5,6 +5,6 @@
   <br>
   <br>
   <samp>
-    One ordinary day, one ordinary programmer. May be slow to respond as the schedule is super tight.
+    One ordinary day, one ordinary programmer.
   </samp>
 </p>
